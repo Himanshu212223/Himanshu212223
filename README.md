@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Infosys<br>🌱 I’m currently learning Python<br>💬 Ask me about anything.
+🔭 I’m currently working on Infosys<br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
