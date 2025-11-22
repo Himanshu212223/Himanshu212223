@@ -9,38 +9,26 @@ I am Web Developer currently working on Infosys.
 
 ## 🌐 Socials:
 
-<style>
-a.no-underline,
-a.no-underline:hover,
-a.no-underline:focus,
-a.no-underline:active {
-  text-decoration: none !important;
-}
-</style>
-
-
 <!-- <br> -->
-<a class="no-underline" href="https://github.com/HimanshuSap124">
-  <span style="background-color:black; padding:8px; border-radius:4px; width:auto; color:white; font-size:12px;">
-    My SAP Github
-  </span>
-</a>
-<br>
-<br>
+[My SAP Github](https://github.com/HimanshuSap124)
+
+[Linked In](https://www.linkedin.com/in/himanshu-9556261b7/)
+
+[Email](himanshu212223@gmail.com)
 <!-- <br> -->
 
 
 <!-- <br> -->
-<a class="no-underline" href="https://www.linkedin.com/in/himanshu-9556261b7/">
+<!-- <a class="no-underline" href="https://www.linkedin.com/in/himanshu-9556261b7/">
   <span style="background-color:#0A66C2; padding:6px; border-radius:4px; width:auto; color:white; font-size:12px;">
     LinkedIn
   </span>
 </a>
 <br>
-<br>
+<br> -->
 <!-- <br> -->
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu212223@gmail.com)
+<!-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu212223@gmail.com) -->
 
 # 💻 Tech Stack:
 
